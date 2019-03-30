@@ -1,0 +1,6 @@
+/build/
+/external/
+*.swp
+/**/*.o
+/.vscode/
+
